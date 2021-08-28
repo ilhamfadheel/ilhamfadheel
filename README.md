@@ -1,16 +1,3 @@
-```r
-ilham@ilhamfadheel:~$ neofetch
- ______  __  __                                ________ 
-/      |/  |/  |                              /        |    ilham@ilhamfadheel
-$$$$$$/ $$ |$$ |____    ______   _____  ____  $$$$$$$$/     -------------------
-  $$ |  $$ |$$      \  /      \ /     \/    \ $$ |__        Uptime: 24 Years
-  $$ |  $$ |$$$$$$$  | $$$$$$  |$$$$$$ $$$$  |$$    |       Languages: Python, Java, C++
-  $$ |  $$ |$$ |  $$ | /    $$ |$$ | $$ | $$ |$$$$$/        Frameworks: React, Gatsby, Next, WordPress
- _$$ |_ $$ |$$ |  $$ |/$$$$$$$ |$$ | $$ | $$ |$$ |          Deployment: AWS, Netlify, Vercel
-/ $$   |$$ |$$ |  $$ |$$    $$ |$$ | $$ | $$ |$$ |          Backend: Node, PHP, Mongo, Apache
-$$$$$$/ $$/ $$/   $$/  $$$$$$$/ $$/  $$/  $$/ $$/           Editor: Atom/VSCode
-```
-
 # Hello, I'm Ilham. Welcome to my GitHub! 👋
 
 <img src="Ilham Fadhil.png" alt="Ilham Fadhil Github's Banner">
@@ -23,6 +10,18 @@ I can also boost your business traffic and ROI by configuring advanced pixel tra
 -Facebook Pixel 
 -BirdSend Mail Pixel
 
+```r
+ilham@ilhamfadheel:~$ neofetch
+ _ _ _   _   _                                 _ _ _ _ 
+/      |/  |/  |                              /        |    ilham@ilhamfadheel
+$$$$$$/ $$ |$$ |_ _     _ _  _   _ _ _  _  _  $$$$$$$$/     -------------------
+  $$ |  $$ |$$      \  /      \ /     \/    \ $$ |__        Uptime: 24 Years
+  $$ |  $$ |$$$$$$$  | $$$$$$  |$$$$$$ $$$$  |$$    |       Languages: Python, Java, C++
+  $$ |  $$ |$$ |  $$ | /    $$ |$$ | $$ | $$ |$$$$$/        Frameworks: React, Gatsby, Next, WordPress
+ _$$ |_ $$ |$$ |  $$ |/$$$$$$$ |$$ | $$ | $$ |$$ |          Deployment: AWS, Netlify, Vercel
+/ $$   |$$ |$$ |  $$ |$$    $$ |$$ | $$ | $$ |$$ |          Backend: Node, PHP, Mongo, Apache
+$$$$$$/ $$/ $$/   $$/  $$$$$$$/ $$/  $$/  $$/ $$/           Editor: Atom/VSCode
+```
 
 <p float="center" align="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=ilhamfadheel&show_icons=true&theme=dark&count_private=true&hide=contribs,issue" />
