@@ -15,7 +15,7 @@ ilham@ilhamfadheel:~$ neofetch
  _ _ _   _   _                                 _ _ _ _ 
 /      |/  |/  |                              /        |    ilham@ilhamfadheel
 $$$$$$/ $$ |$$ |_ _     _ _  _   _ _ _  _  _  $$$$$$$$/     -------------------
-  $$ |  $$ |$$      \  /      \ /     \/    \ $$ |__        Uptime: 24 Years
+  $$ |  $$ |$$      \  /      \ /     \/    \ $$ | _        Uptime: 24 Years
   $$ |  $$ |$$$$$$$  | $$$$$$  |$$$$$$ $$$$  |$$    |       Languages: Python, Java, C++
   $$ |  $$ |$$ |  $$ | /    $$ |$$ | $$ | $$ |$$$$$/        Frameworks: React, Gatsby, Next, WordPress
  _$$ |_ $$ |$$ |  $$ |/$$$$$$$ |$$ | $$ | $$ |$$ |          Deployment: AWS, Netlify, Vercel
