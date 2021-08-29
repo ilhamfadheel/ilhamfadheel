@@ -36,7 +36,7 @@ $$$$$$/ $$/ $$/   $$/  $$$$$$$/ $$/  $$/  $$/ $$/           Editor: Atom/VSCode
   <img alt="Most Used Languages" height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamfadheel&layout=compact&theme=dark" />
 </p>
 
-<p align="center"><img align="center" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamfadheel&theme=black-ice" alt="Github Streaks" /></p>
+<p align="center"><img align="center" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamfadheel&theme=black-ice&hide_border=true" alt="Github Streaks" /></p>
 
 ## You can find me here 🌎: <img alt="The World" align="left" width="150" height="150" src="dio-stand.png"> <img align="right" height="200" src="gyro-zeppeli.gif" alt="Gyro Zeppeli"> 
 - <a href="https://digest.ilhamfadhil.com/">Bi-Weekly Digest</a> 📬 and <a href="https://ilhamfadhil.com/blog"> Blog </a>🖨
