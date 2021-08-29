@@ -1,4 +1,12 @@
-# Hello, I'm Ilham. Welcome to my GitHub! 👋
+  <a href="https://github.com/ilhamfadheel" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ilhamfadheel?label=Github&style=flat">
+  </a>
+  <a href="https://github.com/ilhamfadheel" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=ilhamfadheel&label=Profile%20views&color=0e75b6&style=flat" alt="devsahinur" />
+  </a> 
+
+
+# Hello, I'm Ilham. Welcome to my GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <img src="Ilham Fadhil.png" alt="Ilham Fadhil Github's Banner">
 
@@ -27,6 +35,7 @@ $$$$$$/ $$/ $$/   $$/  $$$$$$$/ $$/  $$/  $$/ $$/           Editor: Atom/VSCode
   <img  src="https://github-readme-stats.vercel.app/api?username=ilhamfadheel&show_icons=true&theme=dark&count_private=true&hide=contribs,issue" />
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamfadheel&layout=compact&theme=dark" />
 </p>
+
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamfadheel" alt="rishawsingh" /></p>
 
 ## You can find me here 🌎: <img align="left" width="150" height="150" src="dio-stand.jpeg"> <img align="right" height="200" src="gyro-zeppeli.gif"> 
