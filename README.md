@@ -1,14 +1,14 @@
   <a href="https://github.com/ilhamfadheel" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ilhamfadheel?label=Github&style=flat">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ilhamfadheel?label=Github%20Followers&style=flat-square&color=blueviolet"/>
   </a>
   <a href="https://github.com/ilhamfadheel" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=ilhamfadheel&label=Profile%20views&color=0e75b6&style=flat" alt="devsahinur" />
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ilhamfadheel&label=Profile%20Views&color=0e75b6&style=flat-square&color=blueviolet" />
   </a> 
 
 
-# Hello, I'm Ilham. Welcome to my GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hello, I'm Ilham. Welcome to my GitHub! <img alt="Hand Wave" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img src="Ilham Fadhil.png" alt="Ilham Fadhil Github's Banner">
+<img src="Ilham Fadhil.png" alt="Ilham Fadhil Banner">
 
 I'm a freelance web dev focused on creating fast, responsive and dynamic web applications. I play pc games, ride a bike, read mangas, write blog, or learn new Web stacks on my free time. 
 
@@ -32,13 +32,13 @@ $$$$$$/ $$/ $$/   $$/  $$$$$$$/ $$/  $$/  $$/ $$/           Editor: Atom/VSCode
 ```
 
 <p float="center" align="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=ilhamfadheel&show_icons=true&theme=dark&count_private=true&hide=contribs,issue" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamfadheel&layout=compact&theme=dark" />
+  <img alt="GitHub Stats" height="145" src="https://github-readme-stats.vercel.app/api?username=ilhamfadheel&show_icons=true&theme=dark&count_private=true&hide=contribs,issue&hide_border=true" />
+  <img alt="Most Used Languages" height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamfadheel&layout=compact&theme=dark" />
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamfadheel" alt="rishawsingh" /></p>
+<p align="center"><img align="center" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamfadheel&theme=black-ice" alt="Github Streaks" /></p>
 
-## You can find me here 🌎: <img align="left" width="150" height="150" src="dio-stand.jpeg"> <img align="right" height="200" src="gyro-zeppeli.gif"> 
+## You can find me here 🌎: <img alt="The World" align="left" width="150" height="150" src="dio-stand.png"> <img align="right" height="200" src="gyro-zeppeli.gif" alt="Gyro Zeppeli"> 
 - <a href="https://digest.ilhamfadhil.com/">Bi-Weekly Digest</a> 📬 and <a href="https://ilhamfadhil.com/blog"> Blog </a>🖨
 - <a href="https://www.twitter.com/ilhamfadheel">Twitter</a> 🐦
 - <a href="https://www.instagram.com/ilhamfadheel">Instagram</a> 📷
