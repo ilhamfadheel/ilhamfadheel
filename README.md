@@ -5,20 +5,20 @@
 I'm a freelance web dev focused on creating fast, responsive and dynamic web applications. I play pc games, ride a bike, read mangas, write blog, or learn new Web stacks on my free time. 
 
 If you need E-Commerce, LMS, Portfolio, Inventory, Point of Sale or any website done, feel free to reach me by emailing ilham@ilhamfadhil.com and I will reach back to you. 
-I can also boost your business traffic and ROI by configuring advanced pixel tracking with: 
+I can also boost your business traffic and ROI by configuring SEO & advanced pixel tracking with: 
 -Google Analytics(GTM) 
 -Facebook Pixel 
 -BirdSend Mail Pixel
 
 ```r
 ilham@ilhamfadheel:~$ neofetch
- _ _ _   _   _                                 _ _ _ _ 
-/      |/  |/  |                              /        |    ilham@ilhamfadheel
-$$$$$$/ $$ |$$ |_ _     _ _  _   _ _ _  _  _  $$$$$$$$/     -------------------
-  $$ |  $$ |$$      \  /      \ /     \/    \ $$ | _        Uptime: 24 Years
-  $$ |  $$ |$$$$$$$  | $$$$$$  |$$$$$$ $$$$  |$$    |       Languages: Python, Java, C++
+ _ _ _   _   _                                 _ _ _ _      ilham@ilhamfadheel
+/      |/  |/  |                              /        |    -------------------
+$$$$$$/ $$ |$$ |_ _     _ _  _   _ _ _  _  _  $$$$$$$$/     Uptime: 24 Years
+  $$ |  $$ |$$      \  /      \ /     \/    \ $$ | _        OS: Ubuntu 20.04.3 LTS on Windows 10 x86_64 
+  $$ |  $$ |$$$$$$$  | $$$$$$  |$$$$$$ $$$$  |$$    |       Languages: JS, Python, Java, C++
   $$ |  $$ |$$ |  $$ | /    $$ |$$ | $$ | $$ |$$$$$/        Frameworks: React, Gatsby, Next, WordPress
- _$$ |_ $$ |$$ |  $$ |/$$$$$$$ |$$ | $$ | $$ |$$ |          Deployment: AWS, Netlify, Vercel
+ _$$ |_ $$ |$$ |  $$ |/$$$$$$$ |$$ | $$ | $$ |$$ |          Deployment: AWS, Netlify, Vercel, Heroku
 / $$   |$$ |$$ |  $$ |$$    $$ |$$ | $$ | $$ |$$ |          Backend: Node, PHP, Mongo, Apache
 $$$$$$/ $$/ $$/   $$/  $$$$$$$/ $$/  $$/  $$/ $$/           Editor: Atom/VSCode
 ```
