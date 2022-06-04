@@ -6,7 +6,7 @@
   </a> 
 
 
-# Hello, I'm Ilham. Welcome to my GitHub! <img alt="Hand Wave" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hello, I'm Ilham. Welcome to my GitHub! <img alt="Hand Wave" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 <img src="Ilham Fadhil.png" alt="Ilham Fadhil Banner">
 
