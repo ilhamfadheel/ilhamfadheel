@@ -23,12 +23,12 @@ ilham@ilhamfadheel:~$ neofetch
  _ _ _   _   _                                 _ _ _ _      ilham@ilhamfadheel
 /      |/  |/  |                              /        |    -------------------
 $$$$$$/ $$ |$$ |_ _     _ _  _   _ _ _  _  _  $$$$$$$$/     Uptime: 25 Years
-  $$ |  $$ |$$      \  /      \ /     \/    \ $$ | _        OS: Ubuntu 20.04.3 LTS on Windows 10 x86_64 
+  $$ |  $$ |$$      \  /      \ /     \/    \ $$ | _        OS: macOS 13.0 22A380 arm64 on Apple M1 Pro 
   $$ |  $$ |$$$$$$$  | $$$$$$  |$$$$$$ $$$$  |$$    |       Languages: JS, Python, Java, C++
   $$ |  $$ |$$ |  $$ | /    $$ |$$ | $$ | $$ |$$$$$/        Frameworks: React, Gatsby, Next, WordPress
  _$$ |_ $$ |$$ |  $$ |/$$$$$$$ |$$ | $$ | $$ |$$ |          Deployment: AWS, Netlify, Vercel, Heroku
 / $$   |$$ |$$ |  $$ |$$    $$ |$$ | $$ | $$ |$$ |          Backend: Node, PHP, Mongo, Apache, Spring Boot REST
-$$$$$$/ $$/ $$/   $$/  $$$$$$$/ $$/  $$/  $$/ $$/           Editor: Atom/VSCode
+$$$$$$/ $$/ $$/   $$/  $$$$$$$/ $$/  $$/  $$/ $$/           Editor: VSCode, IntelliJ
 ```
 
 <p float="center" align="center">
