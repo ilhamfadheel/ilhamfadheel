@@ -22,7 +22,7 @@ I can also boost your business traffic and ROI by configuring SEO & advanced pix
 ilham@ilhamfadheel:~$ neofetch
  _ _ _   _   _                                 _ _ _ _      ilham@ilhamfadheel
 /      |/  |/  |                              /        |    -------------------
-$$$$$$/ $$ |$$ |_ _     _ _  _   _ _ _  _  _  $$$$$$$$/     Uptime: 25 Years
+$$$$$$/ $$ |$$ |_ _     _ _  _   _ _ _  _  _  $$$$$$$$/     Uptime: 27 Years
   $$ |  $$ |$$      \  /      \ /     \/    \ $$ | _        OS: macOS 13.0 22A380 arm64 on Apple M1 Pro 
   $$ |  $$ |$$$$$$$  | $$$$$$  |$$$$$$ $$$$  |$$    |       Languages: JS, Python, Java, C++
   $$ |  $$ |$$ |  $$ | /    $$ |$$ | $$ | $$ |$$$$$/        Frameworks: React, Gatsby, Next, WordPress
